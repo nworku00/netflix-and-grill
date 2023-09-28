@@ -1,9 +1,11 @@
 
 # Netflix & Grill
 
-Netflix & Grill is a date night idea. The premis of the date includes a couple that decides to cook a meal together, and then watch a movie.
+[Deployed Link](https://netflix-and-grill-ah5m.onrender.com/)
 
-This application allows you to select a type of cuisine, and then select a genre for movies. The app will then generate 3 recipe options (with links to the recipes) alongside 3 movie options (with links to the movie previews). If you want to select new options, just press reset, and you can start again.
+Netflix & Grill is a date night idea generator. This application is for a couple who just can't decide what to do for their date night.
+
+This application allows you to select a type of cuisine, and then select a genre of movies. The app will then generate 3 recipe options (with links to the recipes) alongside 3 movie options (with links to the movie IMDB page). If you want to select new options, just press reset, and you can start again.
 
 # Tools and Resources Used
 The app was built using the following:
